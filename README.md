@@ -50,7 +50,7 @@ Social Media
   <br>
  
 <!-- Gmail -->   
-<a href="mailto:felipedoglasmhw@gmail.com">
+<a href="mailto:felipedoglasmhw@gmail.com" target="_blank" rel="noopener noreferrer">
   <img align="center" alt="Badge_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
