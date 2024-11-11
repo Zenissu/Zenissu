@@ -49,12 +49,12 @@ Social Media
 <div>
   <br>
   <!--G-mail-->
-   <a href ="mailto: felipedoglasmhw@gmail.com"> <img align="center" alt="Badge_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target ="_blank" rel="noopener noreferrer"><a/>
+   <a href ="mailto: felipedoglasmhw@gmail.com" target ="_blank"> <img align="center" alt="Badge_Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" rel="noopener noreferrer"></a>
   <!--Discord-->
-  <a href ="zenissu"> <img align="center" alt="Badge_Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target ="_blank" rel="noopener noreferrer"><a/>
+  <a href ="zenissu"> <img align="center" alt="Badge_Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" rel="noopener noreferrer"><a/>
   <!--Whatsapp-->
-  <a href ="https://wa.me/5511932284017"> <img align="center" alt="Badge_WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target ="_blank" rel="noopener noreferrer"><a/>
+  <a href ="https://wa.me/5511932284017" target ="_blank"> <img align="center" alt="Badge_WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target ="_blank" rel="noopener noreferrer"></a>
   <!--LinkedIn-->
-  <a href ="https://www.linkedin.com/in/felipe-doglas-cordeiro-de-sousa-8162b0161/"> <img align="center" alt="Badge_LindkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target ="_blank" rel="noopener noreferrer"><a/>
+  <a href ="https://www.linkedin.com/in/felipe-doglas-cordeiro-de-sousa-8162b0161/" target ="_blank"> <img align="center" alt="Badge_LindkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" rel="noopener noreferrer"></a>
 </div>
 
