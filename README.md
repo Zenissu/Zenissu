@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Felipe Doglas 
--  @ Languages Portuguese, English and Spanish :brazil:
+-  Portuguese :brazil:
 - 🔭 O que estou fazendo: No momento estou estudando ciências da computação na UNICSUL
 - 🌱 Estudando: Kotlin 
 - 🤔 Duvidas: Estou no momento buscando dicas referentes a estágios na área de analise de dados e programação !
